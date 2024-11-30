@@ -66,6 +66,12 @@ body {
     align-items: center;
 }
 
+.google-login {
+    border-radius: 50px;
+    display: inline-block;
+    height: 50px;
+    width: 200px;
+}
 
 a:link, a:visited {
     color: black;
